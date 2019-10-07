@@ -1,2 +1,2 @@
 # credit_default_modelling
-credict defualt prediction from business past cashflow
+credict default prediction including model explainability.
